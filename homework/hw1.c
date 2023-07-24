@@ -29,7 +29,6 @@ int main() {
     item1->next = NULL;
 
     int res = ordered_list(item1);
-    printf("%d", res);
-
+    printf("ответ -%d", res );
     return 0;
 }

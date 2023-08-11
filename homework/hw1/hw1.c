@@ -32,3 +32,4 @@ int main() {
     printf("ответ -%d", res );
     return 0;
 }
+
